@@ -1,0 +1,562 @@
+[
+  {
+    "id": "1",
+    "title": "Garden Meditation",
+    "description": "Connect with nature through your senses while in your garden.",
+    "duration": "10 min",
+    "durationInSeconds": 600,
+    "imageUrl": "https://images.pexels.com/photos/4503751/pexels-photo-4503751.jpeg",
+    "isPremium": false,
+    "audioUrl": "backgrounds/garden-ambient.mp3",
+    "steps": [
+      {
+        "time": 0,
+        "text": "Find a comfortable position in your garden. Observe your posture and how your body feels in this space."
+      },
+      {
+        "time": 60,
+        "text": "Take three deep breaths. Inhale through your nose, exhale through your mouth. Feel the air filling your lungs."
+      },
+      {
+        "time": 120,
+        "text": "Now, look gently around you. What colors do you see? Observe the different shades of green, the textures of the plants."
+      },
+      {
+        "time": 180,
+        "text": "Listen to the sounds around you: birds, insects, the rustling of leaves. Just observe without judgment."
+      },
+      {
+        "time": 240,
+        "text": "Feel the earth with your hands. Is it cold? Warm? Moist? Dry? Notice its texture between your fingers."
+      },
+      {
+        "time": 300,
+        "text": "As you work with your plants, move slowly and deliberately. Observe each movement of your hands."
+      },
+      {
+        "time": 360,
+        "text": "If your mind wanders, gently bring your attention back to the present moment, to your garden."
+      },
+      {
+        "time": 420,
+        "text": "Notice any scents: the soil, flowers, herbs. Take a moment to inhale deeply these aromas."
+      },
+      {
+        "time": 480,
+        "text": "As you finish this session, take a moment to feel gratitude for this time of connection with nature."
+      },
+      {
+        "time": 540,
+        "text": "Slowly, become aware of your entire surroundings again. Carry this mindfulness with you as you continue your day."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Mindful Planting",
+    "description": "Practice presence while planting seeds and connect with the cycle of life.",
+    "duration": "15 min",
+    "durationInSeconds": 900,
+    "imageUrl": "https://images.pexels.com/photos/6231602/pexels-photo-6231602.jpeg",
+    "isPremium": true,
+    "audioUrl": "backgrounds/forest-ambient.mp3",
+    "steps": [
+      {
+        "time": 0,
+        "text": "Take a moment to feel the **seed or seedling** in your hand. Observe its size, shape, and texture."
+      },
+      {
+        "time": 90,
+        "text": "Prepare the soil. Feel the **texture of the earth** as you loosen it. Notice any small stones or roots."
+      },
+      {
+        "time": 180,
+        "text": "Create a small hole. Be aware of the **depth and width**, imagining the space your plant will occupy."
+      },
+      {
+        "time": 270,
+        "text": "Gently place the seed or seedling in the hole. Feel the **delicacy** of this new life."
+      },
+      {
+        "time": 360,
+        "text": "Cover the seed or roots with soil. Pat it down **gently but firmly**, providing stability."
+      },
+      {
+        "time": 450,
+        "text": "Water your newly planted friend. Observe how the **water soaks into the earth**, nourishing the plant."
+      },
+      {
+        "time": 540,
+        "text": "Take a moment to **visualize the plant growing**, sending roots deep and leaves reaching for the sun."
+      },
+      {
+        "time": 630,
+        "text": "Feel a sense of **connection to the cycle of life** as you participate in this act of creation."
+      },
+      {
+        "time": 720,
+        "text": "Acknowledge the **potential for growth and transformation** that this tiny seed holds."
+      },
+      {
+        "time": 810,
+        "text": "As you conclude, express **gratitude** for the opportunity to nurture life. Let this feeling linger."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Weeding with Intention",
+    "description": "Transform the act of weeding into a practice of letting go and creating space.",
+    "duration": "12 min",
+    "durationInSeconds": 720,
+    "imageUrl": "https://images.pexels.com/photos/6840679/pexels-photo-6840679.jpeg",
+    "isPremium": false,
+    "audioUrl": "backgrounds/water-ambient.mp3",
+    "steps": [
+      {
+        "time": 0,
+        "text": "Begin by observing the area you'll be weeding. Notice which plants are intended and which are not."
+      },
+      {
+        "time": 60,
+        "text": "Choose one weed to focus on. Observe its **leaves, stem, and how it's rooted** in the soil."
+      },
+      {
+        "time": 120,
+        "text": "Take a deep breath. As you exhale, **set an intention** to release what no longer serves your garden, or yourself."
+      },
+      {
+        "time": 180,
+        "text": "Gently grasp the weed. Feel the **resistance** as you pull it from the earth. Notice the effort."
+      },
+      {
+        "time": 240,
+        "text": "Observe the **roots** as they emerge. Acknowledge the tenacity of life, even in unwanted forms."
+      },
+      {
+        "time": 300,
+        "text": "Place the weed aside, perhaps in a compost pile. Think of it as **releasing energy** back into the earth."
+      },
+      {
+        "time": 360,
+        "text": "Notice the **space** that has been created. How does the soil look and feel now?"
+      },
+      {
+        "time": 420,
+        "text": "Repeat this process with the next weed. Maintain **focus on each individual act** of removal."
+      },
+      {
+        "time": 480,
+        "text": "If your mind wanders, gently return your attention to the **sensation of your hands** in the soil."
+      },
+      {
+        "time": 540,
+        "text": "As you complete the session, take a moment to appreciate the **cleanliness and order** you've brought to your garden."
+      },
+      {
+        "time": 600,
+        "text": "Reflect on how this act of weeding can symbolize **letting go of clutter** in your own life."
+      },
+      {
+        "time": 660,
+        "text": "Conclude with a feeling of **renewal and fresh possibility** in your garden and within yourself."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Sensory Harvest",
+    "description": "Engage all your senses as you harvest, deepening your appreciation for nature's bounty.",
+    "duration": "18 min",
+    "durationInSeconds": 1080,
+    "imageUrl": "https://images.pexels.com/photos/3432709/pexels-photo-3432709.jpeg",
+    "isPremium": true,
+    "audioUrl": "backgrounds/forest-ambient.mp3",
+    "steps": [
+      {
+        "time": 0,
+        "text": "Approach your garden with a sense of **anticipation and gratitude** for the harvest."
+      },
+      {
+        "time": 90,
+        "text": "Before touching, simply **observe** the fruits, vegetables, or herbs you intend to harvest. Notice their colors and shapes."
+      },
+      {
+        "time": 180,
+        "text": "Gently touch the plant. Feel its **texture**, is it smooth, rough, firm, or delicate?"
+      },
+      {
+        "time": 270,
+        "text": "Bring it closer and **inhale its scent**. Does it smell earthy, sweet, herbaceous, or pungent?"
+      },
+      {
+        "time": 360,
+        "text": "As you prepare to pick, notice the **connection point** between the plant and its fruit. Be mindful of the cut or pull."
+      },
+      {
+        "time": 450,
+        "text": "Listen for any **sounds** as you harvest – the snap of a stem, the rustle of leaves."
+      },
+      {
+        "time": 540,
+        "text": "If appropriate, take a small bite. Savor the **flavors and textures**. How does it taste?"
+      },
+      {
+        "time": 630,
+        "text": "Observe the **light** on the harvested item. How does it reflect the sun?"
+      },
+      {
+        "time": 720,
+        "text": "Feel the **weight** of what you've harvested in your hand. Appreciate its density and substance."
+      },
+      {
+        "time": 810,
+        "text": "Reflect on the **journey** from seed to harvest. Acknowledge the sun, water, and earth's contributions."
+      },
+      {
+        "time": 900,
+        "text": "Gather your harvest with **care and reverence**. Each item is a gift from nature."
+      },
+      {
+        "time": 990,
+        "text": "Conclude by expressing **deep appreciation** for this abundance and the nourishment it provides."
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Garden Gratitude Walk",
+    "description": "Walk mindfully through your garden, cultivating a sense of gratitude for all its life.",
+    "duration": "8 min",
+    "durationInSeconds": 480,
+    "imageUrl": "https://images.pexels.com/photos/1723707/pexels-photo-1723707.jpeg",
+    "isPremium": false,
+    "audioUrl": "backgrounds/garden-ambient.mp3",
+    "steps": [
+      {
+        "time": 0,
+        "text": "Step into your garden with an open heart. Take a moment to just **be present**."
+      },
+      {
+        "time": 45,
+        "text": "Begin to walk slowly. Feel your **feet on the earth**. Notice the ground beneath you."
+      },
+      {
+        "time": 90,
+        "text": "Look at a plant and silently acknowledge its **beauty and resilience**. What do you notice about it?"
+      },
+      {
+        "time": 135,
+        "text": "Observe the **sunlight** filtering through the leaves. How does it make you feel?"
+      },
+      {
+        "time": 180,
+        "text": "Listen to the **subtle sounds** of the garden – a buzzing bee, a gentle rustle."
+      },
+      {
+        "time": 225,
+        "text": "Reach out and **gently touch a leaf or flower**. Feel its unique texture."
+      },
+      {
+        "time": 270,
+        "text": "Notice any **insects or creatures** in your garden. Acknowledge their role in the ecosystem."
+      },
+      {
+        "time": 315,
+        "text": "Breathe in the **scents** of your garden. What aromas are present today?"
+      },
+      {
+        "time": 360,
+        "text": "Bring to mind **one thing you are grateful for** in your garden today, big or small."
+      },
+      {
+        "time": 405,
+        "text": "As you complete your walk, feel a deep sense of **connection and appreciation** for this living space."
+      },
+      {
+        "time": 450,
+        "text": "Carry this feeling of **gratitude** with you as you move into the rest of your day."
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Mindful Watering",
+    "description": "Turn watering into a calming ritual, focusing on the flow of life-giving water.",
+    "duration": "7 min",
+    "durationInSeconds": 420,
+    "imageUrl": "https://images.pexels.com/photos/3389474/pexels-photo-3389474.jpeg",
+    "isPremium": false,
+    "audioUrl": "backgrounds/water-ambient.mp3",
+    "steps": [
+      {
+        "time": 0,
+        "text": "Fill your watering can or prepare your hose. Notice the **weight of the water** as you carry it."
+      },
+      {
+        "time": 40,
+        "text": "Approach each plant with **careful attention**. Observe its leaves and soil to determine if it needs water."
+      },
+      {
+        "time": 80,
+        "text": "As you begin to water, listen to the **sound of the water** hitting the soil. A gentle patter or a steady stream."
+      },
+      {
+        "time": 120,
+        "text": "Observe how the **water is absorbed** by the earth. Does it sink in quickly or pool on the surface?"
+      },
+      {
+        "time": 160,
+        "text": "Feel the **coolness of the water** if it touches your skin. Notice the sensation of life being given."
+      },
+      {
+        "time": 200,
+        "text": "Imagine the water traveling down to the roots, **nourishing and sustaining** the plant."
+      },
+      {
+        "time": 240,
+        "text": "Be mindful of **how much water** you are giving, providing just enough without overdoing it."
+      },
+      {
+        "time": 280,
+        "text": "If your mind drifts, gently return your focus to the **flow of the water** and the act of giving."
+      },
+      {
+        "time": 320,
+        "text": "Notice the **vibrancy** that returns to the leaves as the plant drinks. A subtle shift in energy."
+      },
+      {
+        "time": 360,
+        "text": "As you finish, acknowledge the **vital role of water** in all life, and your role in this connection."
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Pruning for Growth",
+    "description": "Practice mindful pruning, focusing on intentional cuts that promote health and vitality.",
+    "duration": "14 min",
+    "durationInSeconds": 840,
+    "imageUrl": "https://images.pexels.com/photos/7474494/pexels-photo-7474494.jpeg",
+    "isPremium": true,
+    "audioUrl": "backgrounds/garden-ambient.mp3",
+    "steps": [
+      {
+        "time": 0,
+        "text": "Before you begin, hold your pruning shears. Feel their **weight and sharpness**. Set an intention for growth."
+      },
+      {
+        "time": 70,
+        "text": "Observe the plant you intend to prune. Look for **dead, diseased, or overcrowded branches**."
+      },
+      {
+        "time": 140,
+        "text": "Identify one branch to cut. Take a moment to **visualize where your cut will be** and its impact."
+      },
+      {
+        "time": 210,
+        "text": "Position your shears carefully. Feel the **resistance** as you make the cut. Hear the crisp sound."
+      },
+      {
+        "time": 280,
+        "text": "Observe the **fresh cut surface**. Notice the internal structure of the branch."
+      },
+      {
+        "time": 350,
+        "text": "Reflect on how this removal creates **space for new growth and air circulation**."
+      },
+      {
+        "time": 420,
+        "text": "Move to the next branch with the same **deliberate attention**. Each cut is a conscious act."
+      },
+      {
+        "time": 490,
+        "text": "If any thoughts of hesitation or doubt arise, gently acknowledge them and return to the **physical act of pruning**."
+      },
+      {
+        "time": 560,
+        "text": "Consider the **overall shape** of the plant. How do your cuts contribute to its health and form?"
+      },
+      {
+        "time": 630,
+        "text": "Gather the pruned material. Feel its **texture** and acknowledge its role in the plant's past."
+      },
+      {
+        "time": 700,
+        "text": "As you finish, step back and observe the **transformed plant**. Notice its renewed vitality."
+      },
+      {
+        "time": 770,
+        "text": "Conclude with gratitude for the opportunity to **guide and nurture** the plant's growth."
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Soil Connection",
+    "description": "Deepen your connection to the earth by mindfully interacting with the soil.",
+    "duration": "9 min",
+    "durationInSeconds": 540,
+    "imageUrl": "https://images.pexels.com/photos/5690382/pexels-photo-5690382.jpeg",
+    "isPremium": false,
+    "audioUrl": "backgrounds/forest-ambient.mp3",
+    "steps": [
+      {
+        "time": 0,
+        "text": "Find a patch of garden soil. Kneel or sit comfortably, allowing yourself to be at eye level with the earth."
+      },
+      {
+        "time": 50,
+        "text": "Extend your hands and gently touch the soil. Feel its **temperature, moisture, and texture**."
+      },
+      {
+        "time": 100,
+        "text": "Take a small handful of soil. **Crumble it between your fingers**. Notice the grittiness, the small particles."
+      },
+      {
+        "time": 150,
+        "text": "Bring it closer to your nose and **inhale its aroma**. Does it smell rich, earthy, or damp?"
+      },
+      {
+        "time": 200,
+        "text": "Observe any **tiny organisms** within the soil – a worm, an ant, a root. Acknowledge this hidden life."
+      },
+      {
+        "time": 250,
+        "text": "Reflect on the **history of this soil**. What has grown here before? What will grow here next?"
+      },
+      {
+        "time": 300,
+        "text": "Feel the **grounding energy** of the earth beneath you. Imagine roots extending from your body into the soil."
+      },
+      {
+        "time": 350,
+        "text": "Express silent gratitude for the **fertility and abundance** that the soil provides."
+      },
+      {
+        "time": 400,
+        "text": "Gently return the soil to the earth. Feel the **release and connection** as it merges back."
+      },
+      {
+        "time": 450,
+        "text": "As you finish, take a moment to carry this feeling of **groundedness and connection** with you."
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Observing Growth & Decay",
+    "description": "Witness the natural cycle of life, growth, and gentle decay in your garden.",
+    "duration": "11 min",
+    "durationInSeconds": 660,
+    "imageUrl": "https://images.pexels.com/photos/2085732/pexels-photo-2085732.jpeg",
+    "isPremium": true,
+    "audioUrl": "backgrounds/water-ambient.mp3",
+    "steps": [
+      {
+        "time": 0,
+        "text": "Walk slowly through your garden, not with a task, but with an intention to **observe the cycles of life**."
+      },
+      {
+        "time": 60,
+        "text": "Find a new sprout or bud. Notice its **delicacy and potential**. What is it becoming?"
+      },
+      {
+        "time": 120,
+        "text": "Now, find a plant that is in its **prime**. Observe its strength, color, and vibrancy."
+      },
+      {
+        "time": 180,
+        "text": "Move your attention to a leaf or flower that is beginning to **fade or decay**. Notice the changes in color and texture."
+      },
+      {
+        "time": 240,
+        "text": "Gently touch the decaying matter. Feel its **softness or brittleness**. Acknowledge its transformation."
+      },
+      {
+        "time": 300,
+        "text": "Reflect on how decay is not an end, but a **return to the earth**, nourishing future growth."
+      },
+      {
+        "time": 360,
+        "text": "Consider how these cycles of growth and decay are a natural part of **all life, including your own**."
+      },
+      {
+        "time": 420,
+        "text": "Listen to the **silence** of the garden, which holds all these processes simultaneously."
+      },
+      {
+        "time": 480,
+        "text": "Find something in your garden that represents **resilience** – a plant that has recovered or thrived."
+      },
+      {
+        "time": 540,
+        "text": "Express gratitude for the **wisdom of nature's cycles** and the lessons they offer."
+      },
+      {
+        "time": 600,
+        "text": "Conclude by carrying a sense of **peace and acceptance** for the natural flow of life."
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Mindful Garden Planning",
+    "description": "Engage in mindful planning for your garden, visualizing growth and setting intentions.",
+    "duration": "16 min",
+    "durationInSeconds": 960,
+    "imageUrl": "https://images.pexels.com/photos/5690387/pexels-photo-5690387.jpeg",
+    "isPremium": true,
+    "audioUrl": "backgrounds/garden-ambient.mp3",
+    "steps": [
+      {
+        "time": 0,
+        "text": "Sit in your garden or a quiet space with your gardening journal or a piece of paper."
+      },
+      {
+        "time": 80,
+        "text": "Close your eyes for a moment. Take a deep breath and **visualize your ideal garden space**."
+      },
+      {
+        "time": 160,
+        "text": "Open your eyes and look at your current garden. What are its **strengths and challenges**?"
+      },
+      {
+        "time": 240,
+        "text": "Consider the **flow of light and water** in your garden. How do they interact with your plants?"
+      },
+      {
+        "time": 320,
+        "text": "Think about what you'd like to **add, remove, or change** in your garden this season or year."
+      },
+      {
+        "time": 400,
+        "text": "As you write down ideas, focus on the **intention behind each decision**. Why do you want this change?"
+      },
+      {
+        "time": 480,
+        "text": "Imagine the **senses involved** in your future garden: what will it look, smell, feel, and sound like?"
+      },
+      {
+        "time": 560,
+        "text": "If any doubts or worries arise, simply **acknowledge them without judgment**, then return to your vision."
+      },
+      {
+        "time": 640,
+        "text": "Consider the **time and energy** you are willing to dedicate. Be realistic and compassionate with yourself."
+      },
+      {
+        "time": 720,
+        "text": "Feel a sense of **excitement and purpose** as you plan and envision your garden's future."
+      },
+      {
+        "time": 800,
+        "text": "Write down **one small, actionable step** you can take towards your garden vision today or this week."
+      },
+      {
+        "time": 880,
+        "text": "Conclude by expressing **gratitude for the opportunity to co-create** with nature in your garden."
+      }
+    ]
+  }
+]
