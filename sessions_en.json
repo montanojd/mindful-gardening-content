@@ -5,7 +5,7 @@
     "description": "Connect with nature through your senses while in your garden.",
     "duration": "10 min",
     "durationInSeconds": 600,
-    "imageUrl": "https://images.pexels.com/photos/4503751/pexels-photo-4503751.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/montanojd/mindful-gardening-content/main/images/s1.png",
     "isPremium": false,
     "audioUrl": "backgrounds/garden-ambient.mp3",
     "steps": [
@@ -57,7 +57,7 @@
     "description": "Practice presence while planting seeds and connect with the cycle of life.",
     "duration": "15 min",
     "durationInSeconds": 900,
-    "imageUrl": "https://images.pexels.com/photos/6231602/pexels-photo-6231602.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/montanojd/mindful-gardening-content/main/images/s2.png",
     "isPremium": true,
     "audioUrl": "backgrounds/forest-ambient.mp3",
     "steps": [
@@ -105,61 +105,61 @@
   },
   {
     "id": "3",
-    "title": "Weeding with Intention",
-    "description": "Transform the act of weeding into a practice of letting go and creating space.",
+    "title": "Compost Connection",
+    "description": "Engage with the process of decomposition, recognizing nature's cycle of transformation and renewal.",
     "duration": "12 min",
     "durationInSeconds": 720,
-    "imageUrl": "https://images.pexels.com/photos/6840679/pexels-photo-6840679.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/montanojd/mindful-gardening-content/main/images/s3.png",
     "isPremium": false,
     "audioUrl": "backgrounds/water-ambient.mp3",
     "steps": [
       {
         "time": 0,
-        "text": "Begin by observing the area you'll be weeding. Notice which plants are intended and which are not."
+        "text": "Approach your compost pile or bin. Take a deep breath and acknowledge this space of transformation."
       },
       {
         "time": 60,
-        "text": "Choose one weed to focus on. Observe its **leaves, stem, and how it's rooted** in the soil."
+        "text": "Observe the materials in the compost. Notice their different **textures, colors, and stages of decomposition**."
       },
       {
         "time": 120,
-        "text": "Take a deep breath. As you exhale, **set an intention** to release what no longer serves your garden, or yourself."
+        "text": "Gently turn the compost with a fork or your hands (wearing gloves if preferred). Feel the **warmth** if it's active."
       },
       {
         "time": 180,
-        "text": "Gently grasp the weed. Feel the **resistance** as you pull it from the earth. Notice the effort."
+        "text": "Inhale the **earthy scent** of the compost. Notice how it's distinct from fresh soil or decaying waste."
       },
       {
         "time": 240,
-        "text": "Observe the **roots** as they emerge. Acknowledge the tenacity of life, even in unwanted forms."
+        "text": "Focus on the **tiny organisms** at work – bacteria, fungi, worms – tirelessly breaking down matter."
       },
       {
         "time": 300,
-        "text": "Place the weed aside, perhaps in a compost pile. Think of it as **releasing energy** back into the earth."
+        "text": "Add new organic scraps to the pile. Observe how they are **integrated** into the existing material."
       },
       {
         "time": 360,
-        "text": "Notice the **space** that has been created. How does the soil look and feel now?"
+        "text": "Reflect on the idea of **waste becoming nourishment**. How does this resonate with concepts of recycling in your own life?"
       },
       {
         "time": 420,
-        "text": "Repeat this process with the next weed. Maintain **focus on each individual act** of removal."
+        "text": "Consider the **patience required** for the compost to mature. Nature works at its own pace."
       },
       {
         "time": 480,
-        "text": "If your mind wanders, gently return your attention to the **sensation of your hands** in the soil."
+        "text": "Visualize the rich, dark soil that will eventually emerge, ready to **nurture new life**."
       },
       {
         "time": 540,
-        "text": "As you complete the session, take a moment to appreciate the **cleanliness and order** you've brought to your garden."
+        "text": "Feel a sense of **satisfaction** in participating in this fundamental cycle of nature."
       },
       {
         "time": 600,
-        "text": "Reflect on how this act of weeding can symbolize **letting go of clutter** in your own life."
+        "text": "Express gratitude for the **transformative power** of decomposition and the fertility it provides."
       },
       {
         "time": 660,
-        "text": "Conclude with a feeling of **renewal and fresh possibility** in your garden and within yourself."
+        "text": "Conclude by recognizing the **interconnectedness of all things** in the garden ecosystem."
       }
     ]
   },
@@ -169,7 +169,7 @@
     "description": "Engage all your senses as you harvest, deepening your appreciation for nature's bounty.",
     "duration": "18 min",
     "durationInSeconds": 1080,
-    "imageUrl": "https://images.pexels.com/photos/3432709/pexels-photo-3432709.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/montanojd/mindful-gardening-content/main/images/s4.png",
     "isPremium": true,
     "audioUrl": "backgrounds/forest-ambient.mp3",
     "steps": [
@@ -229,7 +229,7 @@
     "description": "Walk mindfully through your garden, cultivating a sense of gratitude for all its life.",
     "duration": "8 min",
     "durationInSeconds": 480,
-    "imageUrl": "https://images.pexels.com/photos/1723707/pexels-photo-1723707.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/montanojd/mindful-gardening-content/main/images/s5.png",
     "isPremium": false,
     "audioUrl": "backgrounds/garden-ambient.mp3",
     "steps": [
@@ -285,7 +285,7 @@
     "description": "Turn watering into a calming ritual, focusing on the flow of life-giving water.",
     "duration": "7 min",
     "durationInSeconds": 420,
-    "imageUrl": "https://images.pexels.com/photos/3389474/pexels-photo-3389474.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/montanojd/mindful-gardening-content/main/images/s6.png",
     "isPremium": false,
     "audioUrl": "backgrounds/water-ambient.mp3",
     "steps": [
@@ -337,7 +337,7 @@
     "description": "Practice mindful pruning, focusing on intentional cuts that promote health and vitality.",
     "duration": "14 min",
     "durationInSeconds": 840,
-    "imageUrl": "https://images.pexels.com/photos/7474494/pexels-photo-7474494.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/montanojd/mindful-gardening-content/main/images/s7.png",
     "isPremium": true,
     "audioUrl": "backgrounds/garden-ambient.mp3",
     "steps": [
@@ -397,7 +397,7 @@
     "description": "Deepen your connection to the earth by mindfully interacting with the soil.",
     "duration": "9 min",
     "durationInSeconds": 540,
-    "imageUrl": "https://images.pexels.com/photos/5690382/pexels-photo-5690382.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/montanojd/mindful-gardening-content/main/images/s8.png",
     "isPremium": false,
     "audioUrl": "backgrounds/forest-ambient.mp3",
     "steps": [
@@ -449,7 +449,7 @@
     "description": "Witness the natural cycle of life, growth, and gentle decay in your garden.",
     "duration": "11 min",
     "durationInSeconds": 660,
-    "imageUrl": "https://images.pexels.com/photos/2085732/pexels-photo-2085732.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/montanojd/mindful-gardening-content/main/images/s9.png",
     "isPremium": true,
     "audioUrl": "backgrounds/water-ambient.mp3",
     "steps": [
@@ -505,7 +505,7 @@
     "description": "Engage in mindful planning for your garden, visualizing growth and setting intentions.",
     "duration": "16 min",
     "durationInSeconds": 960,
-    "imageUrl": "https://images.pexels.com/photos/5690387/pexels-photo-5690387.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/montanojd/mindful-gardening-content/main/images/s10.png",
     "isPremium": true,
     "audioUrl": "backgrounds/garden-ambient.mp3",
     "steps": [
