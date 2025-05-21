@@ -1,0 +1,53 @@
+{
+  "title": "Winter Gardening",
+  "coverImage": "https://images.pexels.com/photos/3389955/pexels-photo-3389955.jpeg",
+  "description": "Winter is a time of rest and planning in the garden. Use this quieter season to reflect on last year's garden, plan for spring, and care for indoor plants while connecting with nature's cycle of dormancy and renewal.",
+  "free_tips": [
+    {
+      "title": "Plan next year's garden",
+      "description": "Sketch layouts and order seeds for spring. Take time to visualize and set intentions for your upcoming garden."
+    },
+    {
+      "title": "Care for tools",
+      "description": "Clean, sharpen, and oil garden tools. Practice gratitude for these instruments that help you connect with your garden."
+    },
+    {
+      "title": "Monitor indoor plants",
+      "description": "Adjust watering and light for houseplants during winter. Notice how their needs change with the season."
+    },
+    {
+      "title": "Observe winter wildlife",
+      "description": "Take time to notice birds and other creatures that visit your garden in winter. Consider leaving some seed heads for them."
+    }
+  ],
+  "premium_tips": [
+    {
+      "title": "Winter Pruning Guide",
+      "description": "Learn the art of dormant pruning for different trees and shrubs, with mindfulness practices to connect with woody plants in their resting state."
+    },
+    {
+      "title": "Indoor Garden Projects",
+      "description": "Create beautiful and functional indoor growing spaces with mindful design principles and meditation practices."
+    },
+    {
+      "title": "Seed Starting Timeline",
+      "description": "Detailed calendar for starting seeds indoors during late winter, with mindfulness practices for each stage of seedling development."
+    },
+    {
+      "title": "Winter Soil Improvement",
+      "description": "Learn about techniques such as sheet mulching and winter cover crops, connecting with the living soil even in its dormant season."
+    },
+    {
+      "title": "Garden Reflection Practices",
+      "description": "Guided exercises to evaluate last year's garden and set meaningful intentions for the coming growing season."
+    },
+    {
+      "title": "Winter Plant Identification",
+      "description": "Learn to identify trees and shrubs by their winter features, developing a deeper relationship with plants in all their forms."
+    },
+    {
+      "title": "Garden Journaling Guide",
+      "description": "Create a meaningful record of your garden through various journaling techniques, connecting more deeply with your garden journey."
+    }
+  ]
+}

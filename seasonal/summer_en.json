@@ -1,0 +1,53 @@
+{
+  "title": "Summer Gardening",
+  "coverImage": "https://images.pexels.com/photos/1105019/pexels-photo-1105019.jpeg",
+  "description": "Summer brings warmth, abundance, and the fullness of growth to your garden. As temperatures rise, focus on nurturing plants through heat, harvesting bounty, and appreciating the vibrant energy of the season.",
+  "free_tips": [
+    {
+      "title": "Water deeply and less frequently",
+      "description": "This encourages stronger root growth than frequent shallow watering. Practice mindfulness as you observe water seeping into soil."
+    },
+    {
+      "title": "Mulch garden beds",
+      "description": "Apply mulch to retain moisture and suppress weeds. Notice the way mulch changes the garden environment and protects the soil."
+    },
+    {
+      "title": "Harvest regularly",
+      "description": "Pick vegetables and flowers frequently to encourage continued production. Practice gratitude with each harvest."
+    },
+    {
+      "title": "Monitor for pests",
+      "description": "Observe your garden daily, noticing any changes in plant health or signs of insect activity."
+    }
+  ],
+  "premium_tips": [
+    {
+      "title": "Heat Stress Management",
+      "description": "Learn techniques to protect plants during extreme heat waves with mindful observation and timely intervention."
+    },
+    {
+      "title": "Summer Pruning Guide",
+      "description": "Specific instructions for summer pruning of different plant types to maintain health and shape while staying present with each cut."
+    },
+    {
+      "title": "Water Conservation Practices",
+      "description": "Advanced techniques for minimizing water use while maintaining a thriving garden, including mindful watering meditation practices."
+    },
+    {
+      "title": "Summer Succession Planting",
+      "description": "Plan and execute continuous planting for extended harvests throughout summer, with mindfulness practices for each planting session."
+    },
+    {
+      "title": "Natural Pest Control",
+      "description": "Create balance in your garden ecosystem to manage pests naturally, with techniques for mindful observation and intervention."
+    },
+    {
+      "title": "Mindful Summer Harvesting",
+      "description": "Learn when and how to harvest various crops at their peak, with gratitude practices to enhance your connection to your food."
+    },
+    {
+      "title": "Summer Evening Garden Meditation",
+      "description": "Special guided practice to connect with your garden in the cooler evening hours, appreciating the day's growth and change."
+    }
+  ]
+}

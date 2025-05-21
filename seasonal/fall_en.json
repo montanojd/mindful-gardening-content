@@ -1,0 +1,53 @@
+{
+  "title": "Fall Gardening",
+  "coverImage": "https://images.pexels.com/photos/5009388/pexels-photo-5009388.jpeg",
+  "description": "Fall is a season of transition and preparation. As leaves change color and temperatures cool, focus on harvesting the last crops, preparing the soil for winter, and appreciating the beauty of the garden as it prepares for rest.",
+  "free_tips": [
+    {
+      "title": "Plant cool-season crops",
+      "description": "Sow lettuce, spinach, and other cool-weather vegetables for fall harvest. Take time to appreciate the second growing season."
+    },
+    {
+      "title": "Collect seeds",
+      "description": "Gather seeds from favorite plants for next year's garden. Notice their unique shapes and consider the cycle of life they represent."
+    },
+    {
+      "title": "Add compost",
+      "description": "Enrich soil with compost before winter sets in. Feel gratitude for the cycle of decomposition and renewal."
+    },
+    {
+      "title": "Clean up diseased plants",
+      "description": "Remove and dispose of any diseased plant material to prevent problems next season. Practice letting go as part of the garden cycle."
+    }
+  ],
+  "premium_tips": [
+    {
+      "title": "Fall Soil Building",
+      "description": "Comprehensive techniques for preparing your soil for the next growing season, with mindful approaches to working with the earth."
+    },
+    {
+      "title": "Leaf Management Strategies",
+      "description": "Turn fallen leaves into garden gold through various techniques, connecting with the natural cycle of decomposition and renewal."
+    },
+    {
+      "title": "Mindful Garden Cleanup",
+      "description": "Learn which plants to cut back and which to leave for wildlife, with practices for making conscious, ecological choices."
+    },
+    {
+      "title": "Fall Planting for Spring Blooms",
+      "description": "Comprehensive guide to planting bulbs and perennials in fall, with meditations on patience and anticipation."
+    },
+    {
+      "title": "Extending the Growing Season",
+      "description": "Techniques for cold frames, row covers, and other methods to continue growing into the colder months, with practices for appreciating the changing seasons."
+    },
+    {
+      "title": "Fall Composting Mastery",
+      "description": "Learn to balance your compost with the abundance of autumn materials, connecting mindfully with the cycle of decay and renewal."
+    },
+    {
+      "title": "Preparing Perennials for Winter",
+      "description": "Specific care instructions for different perennial types, with mindful practices for helping plants transition to dormancy."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Spring Gardening",
+  "coverImage": "https://images.pexels.com/photos/4503265/pexels-photo-4503265.jpeg",
+  "description": "Spring is a time of renewal and growth in the garden. As the days lengthen and temperatures rise, it's time to prepare soil, sow seeds, and welcome new life. Use these mindful gardening tips to make the most of this vibrant season.",
+  "free_tips": [
+    {
+      "title": "Clean up winter debris",
+      "description": "Mindfully remove fallen branches, dead leaves, and other debris from your garden beds, taking time to notice how the garden has changed over winter."
+    },
+    {
+      "title": "Prepare your soil",
+      "description": "Add compost or other organic matter to enrich your soil before planting. Feel the texture between your fingers and notice the earthy scent."
+    },
+    {
+      "title": "Start seeds indoors",
+      "description": "Begin seeds for warm-season vegetables like tomatoes and peppers. Take a moment to appreciate each seed's potential as you plant it."
+    },
+    {
+      "title": "Prune early flowering shrubs",
+      "description": "After they bloom, gently prune spring-flowering shrubs. Be present with each cut, noticing the plant's structure."
+    }
+  ],
+  "premium_tips": [
+    {
+      "title": "Detailed Spring Planting Calendar",
+      "description": "A week-by-week guide for optimal planting times in your zone, with mindfulness practices integrated into your garden planning."
+    },
+    {
+      "title": "Soil Amendment Guide",
+      "description": "Specific recommendations for different soil types and plants, with mindful approaches to understanding your garden's unique needs."
+    },
+    {
+      "title": "Spring Pest Prevention",
+      "description": "Natural methods to prevent common spring garden pests while maintaining harmony with the ecosystem in your garden."
+    },
+    {
+      "title": "Spring Pruning Guide",
+      "description": "Detailed instructions for pruning various plants in spring, with mindfulness techniques to connect with your plants as you shape them."
+    },
+    {
+      "title": "Seed Starting Masterclass",
+      "description": "Advanced techniques for successful seed germination and seedling care, with meditations to connect with the cycle of growth."
+    },
+    {
+      "title": "Mindful Garden Layout Planning",
+      "description": "Design your spring garden with intention, creating spaces for both beauty and function while considering the needs of plants and pollinators."
+    },
+    {
+      "title": "Spring Composting Techniques",
+      "description": "Optimize your compost system as growing season begins, with practices for mindfully transforming garden waste into valuable soil."
+    }
+  ]
+}
