@@ -1,29 +1,34 @@
-{
-  "welcome": "Welcome to Mindful Gardening",
-  "start_session": "Start Session",
-  "daily_session": "Daily Session",
-  "all_sessions": "All Sessions",
-  "premium_content": "Premium Content",
-  "notes": "My Notes",
-  "progress": "Your Progress",
-  "completed": "Completed",
-  "sessions": "Sessions",
-  "minutes": "Minutes",
-  "streak": "Day Streak",
-  "continue_practice": "Continue Your Practice",
-  "recent_sessions": "Recent Sessions",
-  "calendar": "Mindfulness Calendar",
-  "no_sessions_completed": "No mindfulness sessions completed yet.",
-  "start_first_session": "Start Your First Session",
-  "loading": "Loading...",
-  "connect_nature": "Connect with nature, one plant at a time",
-  "guide_of_day": "Guide of the Day",
-  "explore": "Explore",
-  "mindfulness_sessions": "Mindfulness Sessions",
-  "my_notes": "My Notes",
-  "record_observations": "Record your observations and thoughts about your garden.",
-  "seasonal_tips": "Seasonal Tips",
-  "discover_seasonal": "Discover what to do in your garden according to the current season.",
-  "unlock_premium": "Unlock Premium",
-  "exclusive_content": "Access exclusive guides and more mindful gardening features."
-}
+[
+  {
+    "key": "welcome",
+    "value": "Welcome to Mindful Gardening"
+  },
+  {
+    "key": "start_session",
+    "value": "Start Session"
+  },
+  {
+    "key": "daily_session",
+    "value": "Daily Session"
+  },
+  {
+    "key": "all_sessions",
+    "value": "All Sessions"
+  },
+  {
+    "key": "premium_content",
+    "value": "Premium Content"
+  },
+  {
+    "key": "notes",
+    "value": "My Notes"
+  },
+  {
+    "key": "progress",
+    "value": "Your Progress"
+  },
+  {
+    "key": "connect_nature",
+    "value": "Connect with nature, one plant at a time"
+  }
+]
