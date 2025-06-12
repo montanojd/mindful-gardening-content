@@ -286,7 +286,7 @@
     "duration": "7 min",
     "durationInSeconds": 420,
     "imageUrl": "https://raw.githubusercontent.com/montanojd/mindful-gardening-content/main/images/s6.png",
-    "isPremium": false,
+    "isPremium": true,
     "audioUrl": "backgrounds/water-ambient.mp3",
     "steps": [
       {
@@ -398,7 +398,7 @@
     "duration": "9 min",
     "durationInSeconds": 540,
     "imageUrl": "https://raw.githubusercontent.com/montanojd/mindful-gardening-content/main/images/s8.png",
-    "isPremium": false,
+    "isPremium": true,
     "audioUrl": "backgrounds/forest-ambient.mp3",
     "steps": [
       {
